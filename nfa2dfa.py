@@ -1,6 +1,4 @@
 # Name: Matthew S. Harrison
-#
-
 
 # implements Figure 3.33 in the Dragon book
 def eclosure(T):
